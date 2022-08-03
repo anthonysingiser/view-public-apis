@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/view-public-apis/static/css/main.11053b1b.css",
+    "main.js": "/view-public-apis/static/js/main.813b8097.js",
+    "index.html": "/view-public-apis/index.html",
+    "main.11053b1b.css.map": "/view-public-apis/static/css/main.11053b1b.css.map",
+    "main.813b8097.js.map": "/view-public-apis/static/js/main.813b8097.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11053b1b.css",
+    "static/js/main.813b8097.js"
+  ]
+}
